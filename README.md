@@ -7,7 +7,8 @@ Fraud in electricity and gas distribution is a significant challenge for utiliti
 This project leverages **data analytics** and **machine learning techniques** to detect and mitigate fraudulent activities in electricity and gas distribution systems, ensuring reliability and efficiency in energy distribution networks.
 
 ### Kaggle Project
-Access the complete detailed project notebook on Kaggle: [Fraud Detection in Electricity and Gas Distribution]([https://www.kaggle.com](https://www.kaggle.com/code/vipuljain27/eda-for-fraud-in-electricity-and-gas-consumption))
+Access the complete detailed project notebook on Kaggle: [Fraud Detection in Electricity and Gas Distribution](https://www.kaggle.com/code/vipuljain27/eda-for-fraud-in-electricity-and-gas-consumption)
+
 Feel free to explore and share your feedback!
 
 ---
