@@ -1,4 +1,5 @@
 # Fraud Detection in Electricity and Gas Distribution
+![image](https://github.com/user-attachments/assets/c51d5395-972c-4a8e-9adc-3344757218d7)
 
 ## Introduction
 
